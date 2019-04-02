@@ -1,0 +1,10 @@
+###############
+Goal of Project:
+###############
+-Design an algorithm to simulate a particular netowork
+-Implement an algorithm for solving a problem assiciated with that network
+-Write a short (one page) report on what you have done, how you achived it, the technical solution(s) you used, and what you discovered. that network.
+
+Allocated Network - Neighbour Graphs: Input N, p and q, with p > q. Create a graph with N vertices. The probability that there is an edge between notes i and j is p if i and j have a neighbour in common; otherwise it is q.
+
+Allocated Algorithm - Determine if a graph is connected, and the number of connected components it has.
